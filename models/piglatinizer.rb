@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @kscali Sign out
-19
-0 87 learn-co-students/sinatra-mvc-lab-cb-000
- Code  Issues 0  Pull requests 82  Projects 0  Insights
-sinatra-mvc-lab-cb-000/models/piglatinizer.rb
-78049be  on Mar 13
-@DanielSeehausen DanielSeehausen fixed solution to match new improved testing (single method expected …
-@dfenjves @vicfriedman @howardbdev @DanielSeehausen
-     
-40 lines (30 sloc)  907 Bytes
 class PigLatinizer
 
   def piglatinize(input_str)
@@ -55,16 +37,3 @@ class PigLatinizer
 
 
 end
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
